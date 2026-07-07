@@ -58,11 +58,24 @@ This End-to-End Business Intelligence project that analyzes ride-booking operati
 ## 📂 Repository Structure
 
 ```
-📁 SQL Queries
-📁 Power BI Dashboard (.pbix)
-📁 Excel Dataset
+📁 Excel
+│   └── inDrive Dataset
+
+📁 SQL
+│   ├── Database Schema.sql
+│   ├── Data Cleaning.sql
+│   └── Business Analysis Queries.sql
+
+📁 Power BI
+│   └── inDrive Operational Analysis.pbix
+
 📁 Dashboard Screenshots
-📄 Project Documentation (PDF)
+│   ├── Executive Overview.png
+│   ├── Customer Insights.png
+│   ├── Performance Analysis.png
+│   └── Operations Dashboard.png
+
+📄 Project Documentation.pdf
 📄 README.md
 ```
 
