@@ -16,7 +16,7 @@ This End-to-End Business Intelligence project that analyzes ride-booking operati
 - 📈 Power BI – Dashboard Development & Visualization
 
 ---
-- *Source:* Public ride-booking dataset
+- *Source:* 
 - *Total Records:* 103,024
 - *Time Period:* July 2024
 - *Format:* CSV / Excel
